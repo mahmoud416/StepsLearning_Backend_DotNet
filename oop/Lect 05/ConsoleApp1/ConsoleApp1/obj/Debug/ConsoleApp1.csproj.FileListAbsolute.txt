@@ -1,0 +1,8 @@
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Tasks\oop\Lect 05\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
